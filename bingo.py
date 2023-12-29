@@ -39,3 +39,9 @@ elif answer == "Não":
     print('Obrigado por usar o sorteador, volte sempre')
 else: 
     print('Não entendemos sua resposta, poderia escrever dessa maneira: Sim ou Não')
+
+
+#proximas atualizações:
+#tenho que arrumar esse final, provavelmente vou fazer uma função
+#estava pensando em fazer um site para colocar esse programa e ele ser exibido em html
+#nunca fiz isso mas vou tentar.
